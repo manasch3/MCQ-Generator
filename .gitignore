@@ -16,9 +16,6 @@ __pycache__/
 # Editor
 .vscode/
 
-# Report outputs (but preserve folder with .gitkeep)
-reports/*.md
-
 # Distribution
 dist/
 build/
